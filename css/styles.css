@@ -1,0 +1,65 @@
+*{
+  font-family: arial, sans-serif;
+
+}
+header{
+  background-color: white;
+}
+.logo {
+  height: 8%;
+  width: 8%;
+}
+.converse{
+  height: 55%;
+  width: 55%;
+  align: center;
+}
+body{
+  background-color: #ff5c33;
+}
+/*.container{
+   background-color: #ff5c33;
+   width: 57%;
+   height: 0%;
+   margin: auto;
+}*/
+h1{
+  font-size: 30px;
+  color: white;
+}
+.orangeBackground{
+  color: white;
+}
+a{
+  font-size: 14px;
+}
+p{
+  font-size: 14px;
+}
+.midWebPageInfo{
+  background-color: white;
+  padding: 0px;
+}
+h2{
+  font-size: 20px;
+}
+h6{
+  font-size: 14px;
+}
+.shoe{
+  height: 43%;
+  width: 43%;
+  text-decoration: underline, blue;
+}
+footer{
+  background-color: white;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding-left: 0;
+}
+li{
+  display: inline;
+  color: #bfbfbf;
+}
